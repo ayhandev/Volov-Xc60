@@ -1,0 +1,26 @@
+.bg1 {
+    background-image: url(./img/01.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg2 {
+    background-color: #1B2121;
+}
+
+.bg3 {
+    background-color: #323232;
+}
+
+.bg4 {
+    background: linear-gradient(to bottom, #1e2326 0%, #738182 100%);
+}
+
+.bg5 {
+    background: linear-gradient(to bottom, #738182 0%, #738182 100%);
+}
+
+.font {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
